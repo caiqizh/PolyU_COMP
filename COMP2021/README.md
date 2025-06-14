@@ -4,3 +4,4 @@
 4. https://github.com/WANGaRuijie/PolyU_COMP_Codes/tree/main/COMP2021
 5. https://github.com/DMoRanSky/COMPoly/tree/main/COMP2021
 6. https://github.com/Cylrx/PolyU_COMP_Subjects/tree/main/comp2021 (A+)
+7. https://github.com/Deep-Cold/PolyU-Course-Files/tree/main/COMP2021

@@ -4,3 +4,4 @@
 贡献4（2 A+）: https://github.com/yoshino-polyu/COMP1002-Project
 贡献5：https://github.com/rUiJiEwAnG2004/PolyU_COMP_Codes/tree/main/COMP1011
 贡献6 (A+): https://github.com/Cylrx/PolyU_COMP_Subjects/tree/main/comp1011
+7 : https://github.com/Deep-Cold/PolyU-Course-Files/tree/main/COMP1011

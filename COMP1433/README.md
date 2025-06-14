@@ -5,3 +5,4 @@
 5. https://github.com/rUiJiEwAnG2004/PolyU_COMP_Codes/tree/main/COMP1433
 6. https://github.com/DMoRanSky/COMPoly/tree/main/COMP1433
 7. https://github.com/Cylrx/PolyU_COMP_Subjects/tree/main/comp1433 (作业 + cheatsheet)
+8. https://github.com/Deep-Cold/PolyU-Course-Files/tree/main/COMP1433
