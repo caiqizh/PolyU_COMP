@@ -3,11 +3,35 @@
 
 如果这个repo有帮助到你，非常希望你能加入其中，贡献自己的力量！
 
+I'm truly glad to see that many friends are still actively contributing their repositories — a big thank you to everyone for your support!
+
+If this repository has helped you, I warmly encourage you to join in and contribute as well!
 
 > 江山代有才人出，各领风骚数百年。
 
-
 # PolyU_COMP
+
+I hereby announce the official launch of the **PolyU COMP Codebase**.
+
+Repositories are organized by course. Each course's README will include links to contributed repos.
+
+There is also a `src` folder containing various small code snippets.
+
+Everyone is welcome to contribute!
+
+### Submission Process:
+
+1. Create a repository for the course on your own GitHub.
+2. Add your repo link to the corresponding course README in this repository.
+
+### Notes:
+
+1. Please **do not** submit course lecture slides.
+2. Please **do not** submit exam papers.
+3. We **encourage** submissions of assignment code, write-ups, lab work, project files, personal summaries, and any other materials that do **not** involve copyright issues.
+
+---
+
 我宣布 祖传代码库 正式成立
 
 按课分 每门课readme会有大家贡献的repo链接
