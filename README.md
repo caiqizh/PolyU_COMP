@@ -28,7 +28,8 @@ Everyone is welcome to contribute!
 
 1. Please **do not** submit course lecture slides.
 2. Please **do not** submit exam papers.
-3. We **encourage** submissions of assignment code, write-ups, lab work, project files, personal summaries, and any other materials that do **not** involve copyright issues.
+3. We **encourage** submissions of assignment code, write-ups, lab work, project files, and any other materials that do **not** involve copyright issues.
+4. **Personal summaries and course experience sharing are especially encouraged!**
 
 ---
 
@@ -47,4 +48,5 @@ Everyone is welcome to contribute!
 注意事项：
 1. 不提倡提交老师的课件
 2. 不提倡提交考试的试卷
-3. 鼓励提交作业代码，作业文档，lab作业，project项目，个人总结，等其他所有不涉及版权问题的内容。
+3. 鼓励提交作业代码，作业文档，lab作业，project项目，等其他所有不涉及版权问题的内容。
+4. **尤其鼓励提交个人总结，课程经验分享！**
