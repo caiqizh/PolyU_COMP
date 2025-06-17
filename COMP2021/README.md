@@ -5,3 +5,4 @@
 5. https://github.com/DMoRanSky/COMPoly/tree/main/COMP2021
 6. https://github.com/Cylrx/PolyU_COMP_Subjects/tree/main/comp2021 (A+)
 7. https://github.com/Deep-Cold/PolyU-Course-Files/tree/main/COMP2021
+8. https://github.com/JennyLiu0716/OOP-design-and-implementation-of-an-interpreter 
