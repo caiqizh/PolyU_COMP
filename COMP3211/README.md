@@ -9,3 +9,5 @@
 代码贡献 05: https://github.com/Deep-Cold/Jungle-game
 
 代码贡献 06: https://github.com/WANGaRuijie/PolyU_COMP_Codes/tree/main/COMP3211
+
+代码贡献 07：https://github.com/Cylrx/PolyU_COMP_Subjects/tree/main/comp3211 
