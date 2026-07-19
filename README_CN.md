@@ -19,9 +19,9 @@
 
 ## Awesome PolyU COMP Repos
 - [wyuzh/PolyU_COMP_Archive (2021-2025)](https://github.com/wyuzh/PolyU_COMP_Archive)
+- [David200308/PolyU-COMP-Work (2021-2025)](https://github.com/David200308/PolyU-COMP-Work)
 - [WANGaRuijie/PolyU_COMP_Codes (2022-2026)](https://github.com/WANGaRuijie/PolyU_COMP_Codes)
 - [Cylrx/PolyU_Comp_Subjects (2023-Present)](https://github.com/Cylrx/PolyU_Comp_Subjects/)
-- [David200308/PolyU-COMP-Work (2021-2025)](https://github.com/David200308/PolyU-COMP-Work)
 
 ## 提交流程
 1. 先在自己的GitHub创建该课程repo
