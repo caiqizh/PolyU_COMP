@@ -5,3 +5,5 @@
 代码贡献03: https://github.com/WANGaRuijie/PolyU_COMP_Codes/tree/main/COMP2322
 
 代码贡献04: https://github.com/Cylrx/PolyU_COMP_Subjects/tree/main/comp2322
+
+代码贡献05: https://github.com/blitedream/Polyu-courses/tree/main/COMP2322
